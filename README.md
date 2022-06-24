@@ -1,5 +1,6 @@
 # ARMUT Association Rule Based Recommender System
 <img width="505" alt="image" src="https://user-images.githubusercontent.com/101832704/175570700-7739931d-4b7c-407a-be7f-48e1a72920c0.png">
+
 ![pexels-karolina-grabowska-5717993](https://user-images.githubusercontent.com/101832704/175570961-39f2a6ca-d23d-476b-a0f5-397b1b167f00.jpg)
 
 # İŞ PROBLEMİ 
